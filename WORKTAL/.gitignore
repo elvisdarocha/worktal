@@ -1,6 +1,6 @@
 /sqlPatterns/
 /temp/
 /temp/lib/
-/.classpath
-/*.project
+/**/*.classpath
+/**/*.project
 /.settings
